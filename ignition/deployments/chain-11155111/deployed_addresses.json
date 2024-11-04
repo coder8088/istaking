@@ -1,0 +1,5 @@
+{
+  "StakingTokenModule#IToken": "0x074544eE9eb80C880B20E8a36244F371F0342620",
+  "RewardTokenModule#IToken": "0xAC8bA1eE67520363DDD19cbd636F76623b5eA0d7",
+  "IStakingModule#IStaking": "0x37Fd20abD4149720571E3ddDC861B7d7f85788e2"
+}

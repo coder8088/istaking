@@ -1,0 +1,76 @@
+.staking-card {
+    width: 100%;
+    min-width: 320px;
+    max-width: 55%;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+
+.staking-card .ant-card-head-title {
+    color: #280d5f;
+}
+
+.amount-card {
+    width: 100%;
+    height: 80px;
+    padding: 8px 16px;
+    box-sizing: border-box;
+    border-radius: 16px;
+    border: 1px solid #d7cae1;
+    box-shadow: inset 0 2px 2px -1px rgba(74,74,104,.1);
+}
+
+.amount-card .ant-flex {
+    height: 100%;
+}
+
+.staking-input-wrapper {
+    flex: 1;
+    justify-content: space-between;
+}
+
+.amount-input {
+    background: transparent;
+    border-radius: 0;
+    box-shadow: none;
+    border: none;
+    color: #280d5f;
+    display: block;
+    font-size: 26px;
+    outline: none;
+    padding: 0 16px;
+    width: 100%;
+    height: 40px;
+}
+
+.reward-card {
+    width: 100%;
+    height: 80px;
+    background: linear-gradient(229deg, rgb(31, 199, 212) -13.69%, rgb(118, 69, 217) 91.33%);
+    border-radius: 16px;
+    padding: 16px;
+}
+
+.reward-balance-wrapper {
+    flex: 1;
+    justify-content: space-between;
+    padding-right: 16px;
+}
+
+.reward-label {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 120%;
+    font-family: Kanit, sans-serif;
+    vertical-align: baseline;
+}
+
+.reward-balance {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 110%;
+    font-family: Kanit, sans-serif;
+    vertical-align: baseline;
+}

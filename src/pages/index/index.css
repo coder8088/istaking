@@ -1,0 +1,19 @@
+.app-container {
+    box-sizing: border-box;
+    background-color: #FFF;
+    min-height: 100vh;
+}
+
+.ant-layout-header {
+    background: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ant-layout-content {
+    flex: 1;
+    background: #fff;
+    padding: 10px 50px;
+}
